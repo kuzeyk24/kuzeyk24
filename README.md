@@ -1,4 +1,3 @@
-KK here, game-dev-wannabe and master of redundant whitespace
 
 
 <!---
